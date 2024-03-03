@@ -6,7 +6,7 @@
 
 💞️ I'm looking forward to collaborating on projects related to electronics, VLSI design, and emerging technologies.
 
-📫 Feel free to reach out to me via email at your_email@example.com.
+📫 Feel free to reach out to me via email at malay.vaghasiya08@gmail.com.
 
 😄 Pronouns: He/Him
 
