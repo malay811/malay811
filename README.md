@@ -1,18 +1,15 @@
-👋 Hi, I'm @malay811, a first-year B.Tech student studying Electronics and VLSI Engineering at DAIICT!
+Electronics & VLSI Design Student at Dhirubhai Ambani University 
 
-👀 I'm passionate about electronics, VLSI design, and exploring the latest technology trends.
+Research Assistant in Biomedical Monitoring 
 
-🌱 Currently, I'm diving deep into the fundamentals of electronics and VLSI, eager to learn and grow in this dynamic field.
+🔭 Current Explorations:
+Semiconductor Physics | Artificial Intelligence | Astronomy | Entrepreneurship | Lateral Thinking | Investment | Healthy Life.
 
-💞️ I'm looking forward to collaborating on projects related to electronics, VLSI design, and emerging technologies.
+🛠️ Tech Stack:
+Design & Programming: Verilog, C, C++, MATLAB 
+EDA Tools: Cadence Virtuoso, AMD Vivado, LTspice, EasyEDA 
+Hardware: Nexys A7 (Xilinx FPGA), Arduino 
 
-📫 Feel free to reach out to me via email at malay.vaghasiya08@gmail.com.
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I enjoy experimenting with DIY electronics projects and attending tech meetups in my spare time!
-
-<!---
-malay811/malay811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Contact:
+Email: 202304007@dau.ac.in 
+Professional: https://www.linkedin.com/in/malay-v-486ab7271/
