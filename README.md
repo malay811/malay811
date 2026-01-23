@@ -17,4 +17,4 @@ Hardware: Nexys A7 (Xilinx FPGA), Arduino
 
 Email: 202304007@dau.ac.in 
 
-Professional: https://www.linkedin.com/in/malay-v-486ab7271/
+LinkedIn: https://www.linkedin.com/in/malay-v-486ab7271/
