@@ -12,10 +12,12 @@ I aspire to become a versatile engineer capable of adapting to diverse challenge
 🛠️ Tech Stack:
 
 Programming Languages: Verilog, C, C++, MATLAB 
+
 EDA Tools: Cadence Virtuoso, AMD Vivado, LTspice, TINA TI, EasyEDA 
+
 Hardware Platforms: Nexys A7 (Xilinx FPGA), Arduino 
 
 📫 Contact:
 
-Email: malay.vaghasiya08@gmail.com
+Email: malay.vaghasiya08@gmail.com, 
 LinkedIn: https://www.linkedin.com/in/malay-v-486ab7271/
