@@ -1,20 +1,21 @@
 Electronics & VLSI Design Student at Dhirubhai Ambani University 
 
-Research Assistant in Biomedical Monitoring 
+I aspire to become a versatile engineer capable of adapting to diverse challenges and finding practical solutions.
 
-🔭 Current Explorations:
-Semiconductor Physics | Artificial Intelligence | Astronomy | Entrepreneurship | Lateral Thinking | Investment | Healthy Life.
+🔭 Currently exploring, or planning to explore, the following fields:
+
+* Digital & Analog circuits
+* Cryogenic electronics for quantum computation
+* Entrepreneurship
+* Artificial Intelligence
 
 🛠️ Tech Stack:
 
-Design & Programming: Verilog, C, C++, MATLAB 
-
-EDA Tools: Cadence Virtuoso, AMD Vivado, LTspice, EasyEDA 
-
-Hardware: Nexys A7 (Xilinx FPGA), Arduino 
+Programming Languages: Verilog, C, C++, MATLAB 
+EDA Tools: Cadence Virtuoso, AMD Vivado, LTspice, TINA TI, EasyEDA 
+Hardware Platforms: Nexys A7 (Xilinx FPGA), Arduino 
 
 📫 Contact:
 
-Email: 202304007@dau.ac.in 
-
+Email: malay.vaghasiya08@gmail.com
 LinkedIn: https://www.linkedin.com/in/malay-v-486ab7271/
