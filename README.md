@@ -11,7 +11,7 @@ I aspire to become a versatile engineer capable of adapting to diverse challenge
 
 🛠️ Tech Stack:
 
-Programming Languages: Verilog, C, C++, MATLAB 
+Programming Languages: Verilog, C, C++, MATLAB, Python
 
 EDA Tools: AMD Vivado, Cadence Virtuoso, Silvaco ATLAS, TINA TI, LTspice, EasyEDA
 
