@@ -5,17 +5,21 @@ I aspire to become a versatile engineer capable of adapting to diverse challenge
 🔭 Currently exploring, or planning to explore, the following fields:
 
 * Digital & Analog circuits
-* Cryogenic electronics for quantum computation
-* Entrepreneurship
+* Cryogenic electronics for Quantum Computation
 * Artificial Intelligence
+* Entrepreneurship
 
 🛠️ Tech Stack:
 
 Programming Languages: Verilog, C, C++, MATLAB 
 
-EDA Tools: Cadence Virtuoso, AMD Vivado, LTspice, TINA TI, EasyEDA 
+EDA Tools: AMD Vivado, Cadence Virtuoso, Silvaco ATLAS, TINA TI, LTspice, EasyEDA
 
-Hardware Platforms: Nexys A7 (Xilinx FPGA), Arduino 
+Hardware Platforms: Artix 7 FPGA Board, Arduino Leonardo, Arduino UNO
+
+Laboratory Equipments: Oscilloscope, Function generator, Multimeter
+
+Protocols: UART, SCCB
 
 📫 Contact:
 
